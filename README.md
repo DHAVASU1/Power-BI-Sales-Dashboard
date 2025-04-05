@@ -19,7 +19,8 @@ This project is a Sales Dashboard created in Power BI, providing insights into s
 
 
 ## Screenshots
-![POWER BI](https://github.com/user-attachments/assets/d744412e-1dd1-42df-9487-04e98dd9631a)
-![POWER BI2](https://github.com/user-attachments/assets/cb821f4a-9cac-4dab-9f50-59231df507a8)
+![image](https://github.com/user-attachments/assets/33a95e72-70d2-487e-b50e-9c84db1e32a0)
+![image (1)](https://github.com/user-attachments/assets/a9f48b64-d016-4de4-bece-443c50470c38)
+
 
 
